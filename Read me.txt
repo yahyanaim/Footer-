@@ -1,0 +1,11 @@
+1- J'ai commencé par installer wordpress
+
+2 - J'ai ajouté le Dossier footer.php et setting_page.php dans le dossier pluging
+
+3 - j'ai ajouté l'instruction if(!défined('ABSPATH)){ exit; } pour Bloquer l'acces direct.
+
+4 - j'ai ensuite activé mon pluging depuis Dashboard de mon wordpress.
+
+5 - Aprés , j'ai modifié les fichier footer et setting_page.php afin d'avoir le champs de saisie pour personalisé les information du footer (j'ajouté Yahya@cpoyright)
+
+6 - Enfin J'ai ajouté une icon pour le pluging depuis dashicons.
